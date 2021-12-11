@@ -1,20 +1,19 @@
 const CONFIG = {
     titleWeb: "Vượng Cute",
-    introTitle: 'Mỡ',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    introTitle: 'Anh hỏi cái này',
+    introDesc: `Đây là một câu hỏi dễ thui
+    Trẻ con cũng biết
+    Không biết thì ngu si lắm`,
     btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em bị ngu si 🥰',
-    desc: 'Hay là bị ngáo ta ',
+    title: 'Em có bị ngu si không? 🥰',
+    desc: 'Dễ nhỉ?? Trả lời nhanh nhanh lên xem nào ',
     btnYes: 'Có chứ <33',
     btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
+    question: 'Haha. Có ý kiến gì không?? Ghi vào đây nè <3',
+    btnReply: 'Gửi đi <3',
+    reply: 'Ơ. Bị em ngu thật mà !  :)))))',
+    mess: 'Anh biết ngay mà :). Không sao tuy ngu nhưng được cái xấu xí',
+    messDesc: 'Vậy là quá xịn. Nhỉ ',
+    btnAccept: 'Okiiiii :))',
     messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
