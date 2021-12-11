@@ -12,8 +12,8 @@ const CONFIG = {
     question: 'Haha. Có ý kiến gì không?? Ghi vào đây nè 👇',
     btnReply: 'Gửi đi <3',
     reply: 'Ơ. Em bị ngu thật mà. Không chỉ vậy còn bị ngáo nữa :)))))',
-    mess: 'Anh biết ngay mà 🤣. Không sao tuy ngu nhưng được cái xấu xí 🙂',
-    messDesc: 'Vậy là quá xịn. Nhỉ ',
+    mess: 'Anh biết ngay mà 🤣. Không sao tuy em ngu si nhưng bù lại được cái xấu xí cơ mà 🙂',
+    messDesc: 'Vậy là quá xịn. Nhỉ ? ',
     btnAccept: 'Okiiiii 🙆',
     messLink: 'https://m.me/profile.php?id=100016032737446' //link mess của các bạn. VD: https://m.me/profile.php?id=100016032737446
 }
